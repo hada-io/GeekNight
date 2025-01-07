@@ -65,7 +65,7 @@
                 let date = Path.GetFileNameWithoutExtension(markdownFilePath)
 
                 let publicationDate =
-                    $"""<p class="publication-date">Published on <time datetime="{date}">{date}</time></p>"""
+                    $"""<p class="publication-date">작성일자: <time datetime="{date}">{date}</time></p>"""
 
                 let giscusScript =
                     Path.Combine(Config.htmlDir, "script_giscus.html")
@@ -105,7 +105,7 @@
             $"""
         {frontPageContentHtml}
         <section class="publications">
-            <h1>blog entries</h1>
+            <h1>진행 내역</h1>
             <ul>
             {listOfAllBlogArticlesContentHtml}
             </ul>
