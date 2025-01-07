@@ -1,6 +1,6 @@
 # GeekNight - "라이프 해킹 - 즐거운 삶을 위하여"
 
-![Banner](images/GeekNight-fb.png)
+![Banner](images/GeekNight_fb.png)
 
 **긱나잇**은 긱뉴스 사용자들을 위한 밋업입니다.
 
