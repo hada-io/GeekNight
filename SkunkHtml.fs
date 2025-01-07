@@ -105,7 +105,7 @@
             $"""
         {frontPageContentHtml}
         <section class="publications">
-            <h1>진행 내역</h1>
+            <h1>GeekNights 리스트</h1>
             <ul>
             {listOfAllBlogArticlesContentHtml}
             </ul>
