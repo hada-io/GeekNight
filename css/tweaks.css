@@ -63,3 +63,7 @@ table td[align="right"],
 table th[align="right"] {
     text-align: right !important;
 }
+
+section {
+    justify-content: left
+}
