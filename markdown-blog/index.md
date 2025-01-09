@@ -1,6 +1,6 @@
 # GeekNight - "라이프 해킹 - 즐거운 삶을 위하여"
 
-<img src="images/GeekNight_fb.png" width="600" alt="GeekNight Banner">
+<img src="images/GeekNight_fb.png" width="100%" alt="GeekNight Banner" style="max-width:600px">
 
 **긱나잇**은 긱뉴스 사용자들을 위한 밋업입니다.
 
